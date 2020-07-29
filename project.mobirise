@@ -3491,6 +3491,9 @@
             ".mbr-section-subtitle": {
               "color": "#000000",
               "text-align": "left"
+            },
+            "H2": {
+              "color": "#000000"
             }
           },
           "_name": "content4",
