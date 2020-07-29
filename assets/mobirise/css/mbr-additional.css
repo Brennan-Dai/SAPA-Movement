@@ -1253,12 +1253,11 @@ section.lazy-placeholder:after {
 }
 .cid-s69O5lEZVP {
   background: #ffffff;
-  padding-top: 60px;
-  padding-bottom: 60px;
   background: linear-gradient(0deg, #ffffff, #ffffff);
 }
 .cid-s69O5lEZVP .video-block {
   margin: auto;
+  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-s69O5lEZVP .video-block {
@@ -1266,7 +1265,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-s69OT1CkjX {
-  padding-top: 0px;
+  padding-top: 45px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
